@@ -26,25 +26,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="33" selection-start="98" selection-end="98" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="255">
+            <state line="8" column="6" selection-start="131" selection-end="131" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day1_Variables.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/Day1_Variables.js">
+      <file leaf-file-name="Day2_Arraypractice.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/Day2_Arraypractice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="0" selection-start="521" selection-end="729" vertical-scroll-proportion="0.0" vertical-offset="39" max-vertical-offset="705">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Day1_Calculator.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/Day1_Calculator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.5405405" vertical-offset="0" max-vertical-offset="666">
+            <state line="23" column="45" selection-start="519" selection-end="519" vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="666">
               <folding>
                 <element signature="e#0#46#0" expanded="false" />
               </folding>
@@ -66,14 +57,22 @@
         <option value="$PROJECT_DIR$/js/Day1_Variables.js" />
         <option value="$PROJECT_DIR$/Day1_Calculator.js" />
         <option value="$PROJECT_DIR$/js2/Day1_Calculator.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/Day1_Calculator.js" />
+        <option value="$PROJECT_DIR$/Day2_variablesmath.js" />
+        <option value="$PROJECT_DIR$/Day2_Variablesmath.js" />
+        <option value="$PROJECT_DIR$/js/Day2_Calculatecone.js" />
+        <option value="$PROJECT_DIR$/js/Arraypractice.js" />
+        <option value="$PROJECT_DIR$/js/Day2_Arraypractice" />
+        <option value="$PROJECT_DIR$/js/Day2_Variablesmath.js" />
+        <option value="$PROJECT_DIR$/js/Day1_Arraypractice.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/Day2_Arraypractice.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
+    <option name="x" value="62" />
+    <option name="y" value="22" />
     <option name="width" value="1400" />
     <option name="height" value="789" />
   </component>
@@ -209,7 +208,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="43" width="1400" height="789" extended-state="0" />
+    <frame x="62" y="22" width="1400" height="789" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -245,10 +244,33 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/js/Day2_Calculatecone.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="98" selection-end="98" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="255">
+        <state line="13" column="0" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Day1_Arraypractice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="320" selection-end="528" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Day2_Variablesmath.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="755" selection-end="755" vertical-scroll-proportion="0.22072072" vertical-offset="483" max-vertical-offset="1185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Day1_Calculator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -259,9 +281,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Day1_Calculator.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.5405405" vertical-offset="0" max-vertical-offset="666">
+        <state line="8" column="6" selection-start="131" selection-end="131" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Day2_Arraypractice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="45" selection-start="519" selection-end="519" vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="666">
           <folding>
             <element signature="e#0#46#0" expanded="false" />
           </folding>
