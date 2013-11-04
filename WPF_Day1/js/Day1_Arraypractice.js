@@ -3,7 +3,7 @@
  */
 
 
-//My wrong attempt
+//My wrong attempt triangle
 //var a
 //a =prompt("What is the length of side a?");
 

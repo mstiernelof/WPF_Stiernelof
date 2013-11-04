@@ -2,7 +2,7 @@
  * Created by mstiernelof on 10/30/13.
  */
 
-
+//cone
 //var radius
 //radius =prompt("what is the radius of your cone?");
 
