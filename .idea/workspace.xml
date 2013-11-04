@@ -23,41 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WPF_Day1/index.html">
+      <file leaf-file-name="Day4_conditional.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WPF_Day1/WPF_Day3/Day4_conditional.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="7" selection-start="146" selection-end="146" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
-              <folding>
-                <marker date="1383318107000" expanded="true" signature="28:121" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Activity1_htmljava/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="7" selection-start="200" selection-end="200" vertical-scroll-proportion="0.21028037" vertical-offset="0" max-vertical-offset="642">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Activity1_htmljava/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="57" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-              <folding>
-                <element signature="e#0#45#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Activity1_htmljava/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="27" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
+            <state line="29" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.6531532" vertical-offset="0" max-vertical-offset="666">
               <folding />
             </state>
           </provider>
@@ -81,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/WPF_Day1/js/Day2_Calculatecone.js" />
         <option value="$PROJECT_DIR$/WPF_Day3/day3_Arrayloops.js" />
         <option value="$PROJECT_DIR$/WPF_Day1/WPF_Day3/index.html" />
         <option value="$PROJECT_DIR$/WPF_Day1/day3_Arraymultiplication.js" />
@@ -97,11 +65,12 @@
         <option value="$PROJECT_DIR$/Activity1_htmljava/script.js" />
         <option value="$PROJECT_DIR$/Activity1_htmljava/css/index.html" />
         <option value="$PROJECT_DIR$/Activity1_htmljava/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Day1/WPF_Day3/Day4_conditional.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="271" />
+    <option name="x" value="66" />
     <option name="y" value="22" />
     <option name="width" value="1400" />
     <option name="height" value="789" />
@@ -165,18 +134,8 @@
               <option name="myItemId" value="WPF_Stiernelof" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_Stiernelof" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WPF_Stiernelof" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Activity1_htmljava" />
+              <option name="myItemId" value="WPF_Day1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -190,11 +149,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Activity1_htmljava" />
+              <option name="myItemId" value="WPF_Day1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="WPF_Day3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,14 +164,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WPF_Stiernelof" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Activity1_htmljava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -298,7 +249,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="271" y="22" width="1400" height="789" extended-state="0" />
+    <frame x="66" y="22" width="1400" height="789" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -306,7 +257,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6700288" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6700288" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -433,34 +384,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="146" selection-end="146" vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <marker date="1383318107000" expanded="true" signature="28:121" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Activity1_htmljava/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="27" selection-start="35" selection-end="35" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Activity1_htmljava/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="57" selection-start="104" selection-end="104" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+        <state line="4" column="57" selection-start="104" selection-end="104" vertical-scroll-proportion="0.045045044" vertical-offset="0" max-vertical-offset="666">
           <folding>
             <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Activity1_htmljava/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="27" selection-start="35" selection-end="35" vertical-scroll-proportion="0.067567565" vertical-offset="0" max-vertical-offset="666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Activity1_htmljava/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="7" selection-start="200" selection-end="200" vertical-scroll-proportion="0.21028037" vertical-offset="0" max-vertical-offset="642">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Day1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="7" selection-start="152" selection-end="152" vertical-scroll-proportion="0.25700936" vertical-offset="0" max-vertical-offset="642">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Day1/WPF_Day3/Day4_conditional.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="391" selection-end="391" vertical-scroll-proportion="0.6531532" vertical-offset="0" max-vertical-offset="666">
           <folding />
         </state>
       </provider>
