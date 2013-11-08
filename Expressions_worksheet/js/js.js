@@ -50,13 +50,17 @@ console.log("If each person gets "+newSlicePerPerson+" then Sparky would get "+s
 
 //Problem #4 Average Shopping Bill
 
+var amountSpent = [88,200,150,113,127] //Amounts spent in past 5 weeks
 
+var total = 0
 
+for (var i=0; i< amountSpent.length; i++){ //Using loop to add up
+    total = total + amountSpent[i]
+}
 
+averageSpent = total/5
 
-
-
-
+console.log("The total amount spent on groceries was $"+total+". That is an average of $"+averageSpent+" per week."); //show total result
 
 //Problem #5 Discounts
 
