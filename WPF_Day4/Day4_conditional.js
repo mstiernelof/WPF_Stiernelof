@@ -19,11 +19,19 @@
 
 //math.random practice
 
-var number = (Math.random);
+//var number = (Math.random);
+//
+//if (number>=.5){
+//    console.log("Low");
+//} else {console.log("High");}
 
-if (number>=.5){
-    console.log("Low");
-} else {console.log("High");}
 
 
+// (condition to be me) ? first set of stuff : else stuff
 
+var tern = Math.random();
+(Math.round(tern)==0)
+    ?
+    console.log("heads")
+    :
+    console.log("tails");

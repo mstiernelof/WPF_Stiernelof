@@ -17,27 +17,36 @@
 
 //Problem #1 Dog Years
 
+var sparkyAge = 3; //Sparky's Age
 
+dogYears = sparkyAge * 7; //Formula to find Sparky's age in dog years
 
-
+console.log("Sparky is "+sparkyAge+" which is "+dogYears+" in dog years."); //Show age in dog years
 
 
 
 //Problem #2 Slice of Pie Part 1
 
+var slicePerPizza = 8 //Slices per pizza
 
+var people = 13 //People ready to eat
 
+var pizzas = 2 //Number of Pizzas
+
+slicePerPerson = (slicePerPizza * pizzas / people); //Formula to find out how many slices each person will get
+
+console.log("Each person gets "+slicePerPerson+" slice pizza.") //Show result
 
 
 
 //Problem #3 Slice of Pie Part 2
 
 
+newSlicePerPerson = Math.floor(slicePerPizza * pizzas/people);// How many whole slices each person gets.
 
+sparkySlices = pizzas * slicePerPizza - (newSlicePerPerson * people)  //How many slices Sparky will get
 
-
-
-
+console.log("If each person gets "+newSlicePerPerson+" then Sparky would get "+sparkySlices+" slices pizza.") //Show result
 
 //Problem #4 Average Shopping Bill
 
