@@ -50,9 +50,9 @@ console.log("If each person gets "+newSlicePerPerson+" then Sparky would get "+s
 
 //Problem #4 Average Shopping Bill
 
-var amountSpent = [88,200,150,113,127] //Amounts spent in past 5 weeks
+var amountSpent = [88,200,150,113,127]; //Amounts spent in past 5 weeks
 
-var total = 0
+var total = 0;
 
 for (var i=0; i< amountSpent.length; i++){ //Using loop to add up
     total = total + amountSpent[i]
@@ -64,8 +64,16 @@ console.log("The total amount spent on groceries was $"+total+". That is an aver
 
 //Problem #5 Discounts
 
+var originalPrice = 50; //Original Price
+var discountPer = 30; //Discount of 30%
+var salesTax = .065; //Sales tax 6.5% as a decimal
+var item = "shoes"; //Item
 
+discountPrice = originalPrice - originalPrice * (discountPer/100); //calculate the discount cost of item
+totalCost = discountPrice + (discountPrice * salesTax); //calculate total cost of item (tax included)
 
+console.log("Your "+item+" were originally $"+originalPrice+", but after a "+discountPer+"% discount, " +
+    "they are now $"+discountPrice+" without tax, and $"+totalCost+' with tax.'); //Show result
 
 
 
