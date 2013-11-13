@@ -23,11 +23,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Expressions_worksheet/index.html">
+      <file leaf-file-name="Day7_review.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WPF_Day7/Day7_review.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="3" selection-start="33" selection-end="127" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
-              <folding />
+            <state line="29" column="20" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="782">
+              <folding>
+                <element signature="e#0#46#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,7 +37,7 @@
       <file leaf-file-name="js.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="4" selection-start="1618" selection-end="1618" vertical-scroll-proportion="0.7192192" vertical-offset="303" max-vertical-offset="969">
+            <state line="4" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.091883615" vertical-offset="0" max-vertical-offset="1080">
               <folding />
             </state>
           </provider>
@@ -59,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/WPF_Day1/WPF_Day3/Day4_conditional.js" />
-        <option value="$PROJECT_DIR$/WPF_Day2/Day4_mindfuck.js" />
         <option value="$PROJECT_DIR$/WPF_Day4/Day4_conditional.js" />
         <option value="$PROJECT_DIR$/WPF_Day4/Day4_tempconverter.js" />
         <option value="$PROJECT_DIR$/Expressions_worksheet/index.html" />
@@ -74,14 +74,16 @@
         <option value="$PROJECT_DIR$/WPF_Day6/index.html" />
         <option value="$PROJECT_DIR$/WPF_Day6/Day6_functions.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Day7/index.html" />
+        <option value="$PROJECT_DIR$/WPF_Day7/Day7_review.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/js.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="512" />
+    <option name="x" value="305" />
     <option name="y" value="22" />
-    <option name="width" value="1400" />
+    <option name="width" value="906" />
     <option name="height" value="789" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -155,6 +157,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Day7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Stiernelof" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WPF_Stiernelof" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Conditionals_worksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -193,8 +209,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Conditionals_worksheet" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Conditionals_worksheet" />
       <recent name="$PROJECT_DIR$/WPF_Day5" />
       <recent name="$PROJECT_DIR$/WPF_Day4" />
       <recent name="$PROJECT_DIR$/WPF_Day2" />
@@ -259,17 +275,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="512" y="22" width="1400" height="789" extended-state="0" />
+    <frame x="305" y="22" width="906" height="789" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14285715" sideWeight="0.6613833" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.205298" sideWeight="0.5963964" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42727274" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4036036" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -305,45 +321,48 @@
     </PATH>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WPF_Day1/js/Day1_Variables.js">
+    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="735" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day3/day3_Arrayloops.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="37" selection-start="102" selection-end="102" vertical-scroll-proportion="0.093457945" vertical-offset="0" max-vertical-offset="642">
+        <state line="8" column="69" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="1080">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day3/Day3_loops.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Day5/Day5_review.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="0" selection-start="226" selection-end="226" vertical-scroll-proportion="0.18018018" vertical-offset="105" max-vertical-offset="825">
+        <state line="66" column="0" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.8978979" vertical-offset="362" max-vertical-offset="1500">
           <folding>
             <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day3/day3_Arraytable2.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Day6/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="238" selection-end="238" vertical-scroll-proportion="0.14414415" vertical-offset="69" max-vertical-offset="945" />
+        <state line="3" column="2" selection-start="32" selection-end="123" vertical-scroll-proportion="0.07009346" vertical-offset="0" max-vertical-offset="642">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day4/index.html">
+    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="225" />
+        <state line="3" column="3" selection-start="33" selection-end="128" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Day6/Day6_functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="231" selection-end="790" vertical-scroll-proportion="0.19165085" vertical-offset="94" max-vertical-offset="990">
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Day4/Day4_zeldamindfuck.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+        <state line="14" column="0" selection-start="155" selection-end="198" vertical-scroll-proportion="0.31309298" vertical-offset="15" max-vertical-offset="825">
           <folding>
             <element signature="e#1#46#0" expanded="false" />
           </folding>
@@ -352,65 +371,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WPF_Day5/Day5_world.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="4" selection-start="619" selection-end="619" vertical-scroll-proportion="0.3379224" vertical-offset="0" max-vertical-offset="799">
+        <state line="20" column="4" selection-start="619" selection-end="619" vertical-scroll-proportion="0.3385214" vertical-offset="96" max-vertical-offset="645">
           <folding>
             <element signature="e#0#45#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day5/Day5_review.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Day4/Day4_conditional.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="0" selection-start="1120" selection-end="1120" vertical-scroll-proportion="0.4017522" vertical-offset="639" max-vertical-offset="1500" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="3" selection-start="33" selection-end="127" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day6/index.html">
+    <entry file="file://$PROJECT_DIR$/WPF_Day3/day3_Arrayloops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="2" selection-start="32" selection-end="123" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="225">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/index.html">
+    <entry file="file://$PROJECT_DIR$/WPF_Day3/day3_Arraymultiplication.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="42" selection-start="108" selection-end="108" vertical-scroll-proportion="0.14742015" vertical-offset="0" max-vertical-offset="407">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Activity1_htmljava/index.html">
+    <entry file="file://$PROJECT_DIR$/WPF_Day4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="666">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WPF_Day6/Day6_functions.js">
+    <entry file="file://$PROJECT_DIR$/WPF_Day3/day3_Arraytable2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="32" selection-start="228" selection-end="228" vertical-scroll-proportion="0.28074247" vertical-offset="29" max-vertical-offset="990">
+        <state line="11" column="0" selection-start="238" selection-end="238" vertical-scroll-proportion="0.1821632" vertical-offset="69" max-vertical-offset="945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Day7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="121" selection-end="129" vertical-scroll-proportion="0.14910537" vertical-offset="0" max-vertical-offset="503">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Day3/Day3_loops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WPF_Day7/Day7_review.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="606" selection-end="606" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="782">
           <folding>
-            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#0#46#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="69" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0" vertical-offset="409" max-vertical-offset="1080">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Conditionals_worksheet/js/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="4" selection-start="1618" selection-end="1618" vertical-scroll-proportion="0.7192192" vertical-offset="303" max-vertical-offset="969">
+        <state line="4" column="0" selection-start="74" selection-end="74" vertical-scroll-proportion="0.091883615" vertical-offset="0" max-vertical-offset="1080">
           <folding />
         </state>
       </provider>
