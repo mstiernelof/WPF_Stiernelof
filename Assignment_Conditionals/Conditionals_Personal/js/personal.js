@@ -2,7 +2,7 @@
  *  Created by marie stiernelof 11/13/13 Assignment: Conditionals
  */
 //create code that calculates a result
-//submits 4
+//submits 5
 //what will code calculate
 //2 givens that should be prompted
 //At least two factors must be essential for the calculation.
