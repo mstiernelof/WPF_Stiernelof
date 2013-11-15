@@ -2,7 +2,7 @@
  *  Created by marie stiernelof 11/13/13 Assignment: Conditionals
  */
 //create code that calculates a result
-
+//submits 1
 //what will code calculate
 //2 givens that should be prompted
 //At least two factors must be essential for the calculation.
@@ -31,3 +31,7 @@ var surgeryCost = 1000
 
 var wagePerWeek = hoursPerWeek * wagePerHour
 var weeksUntilGoal = 1000/wagePerWeek
+
+console.log("I will have to work "+weeksUntilGoal+" weeks to afford surgery for my cat.")
+
+
