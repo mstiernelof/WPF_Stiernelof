@@ -37,7 +37,11 @@ var wagePerWeek = hoursPerWeek * wagePerHour;
 var weeksUntilGoal = 1000/wagePerWeek;
 //dividing the cost of surgery with the amount you would be paid in a week to see how many weeks
 // you would have to work to reach that goal
-if (hoursPer)
+if (hoursPerWeek == ""){
+    console.log("Not enough adequate information provided. Please enter a number for hours per week")
+}else if (wagePerWeek == ""){
+    console.log("Not enough adequate information provided. Please enter a number for pay per hour")
+}
 //starting work on the conditional part of the assignment
 
 console.log("I will have to work "+weeksUntilGoal+" weeks to afford surgery for my cat.")
