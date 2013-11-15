@@ -2,7 +2,7 @@
  *  Created by marie stiernelof 11/13/13 Assignment: Conditionals
  */
 //create code that calculates a result
-//submits 1
+//submits 3
 //what will code calculate
 //2 givens that should be prompted
 //At least two factors must be essential for the calculation.
@@ -25,13 +25,23 @@
 //If I work X hours a week and get paid X dollars an hour. How long will I have to work to
 // be able to afford $1000 surgery for my cat.
 
-var hoursPerWeek = parseInt(prompt("How many hours per week do you work?"))
-var wagePerHour = parseInt(prompt("How much do you get paid per hour?"))
-var surgeryCost = 1000
-
-var wagePerWeek = hoursPerWeek * wagePerHour
-var weeksUntilGoal = 1000/wagePerWeek
+var hoursPerWeek = parseInt(prompt("How many hours per week do you work?"));
+//prompting the value for how many hours per week are worked. And making sure
+// the value entered will be treated as a number
+var wagePerHour = parseInt(prompt("How much do you get paid per hour?"));
+var surgeryCost = 1000;
+//prompting the value for how much the user is paid per hour. And making sure
+// the value entered will be treated as a number
+var wagePerWeek = hoursPerWeek * wagePerHour;
+//calculating how much you would be paid in a week by multiplying hours per week by wage per hour
+var weeksUntilGoal = 1000/wagePerWeek;
+//dividing the cost of surgery with the amount you would be paid in a week to see how many weeks
+// you would have to work to reach that goal
+if (hoursPer)
+//starting work on the conditional part of the assignment
 
 console.log("I will have to work "+weeksUntilGoal+" weeks to afford surgery for my cat.")
+//Logging the result to the console and making sure that the result is explained
+// and that there is proper spacing for better readability.
 
 
