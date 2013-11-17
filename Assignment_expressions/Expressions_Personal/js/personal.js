@@ -1,7 +1,7 @@
 /**
  * Created by marie stiernelof on 11/15/13 Assignment: Expressions - Personal.
  */
-//commit 13
+//commit 14
 //math expression, 3 factors as variables (prompted) 3 arithmetic operators
 //prompted value must parseInt
 //console output include calculated values, supporting text, string concatenation
@@ -27,4 +27,5 @@ var weeksUntilGoal = surgeryCost / wagePerWeek;
 //dividing the cost of surgery with the amount you would be paid in a week to see how many weeks
 // you would have to work to reach that goal
 
-//What if my oh so generous parents pitched in $100 
+//What if my oh so generous parents pitched in $100
+var newResult = (surgeryCost - 100) / wagePerWeek;
