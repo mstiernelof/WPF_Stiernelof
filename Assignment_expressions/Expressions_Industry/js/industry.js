@@ -1,7 +1,7 @@
 /**
  * Created by marie stiernelof on 11/15/13. Assignment:Expressions - Industry
  */
-//commit 3
+//commit 4
 //math expression, 3 factors as variables (prompted) 3 arithmetic operators
 //prompted value must parseInt
 //console output include calculated values, supporting text, string concatenation
@@ -18,5 +18,6 @@
 
 var retailPrice = parseInt(prompt("What is the retail price of those designer jeans?"));
 //Prompted variable for the retail price of the jeans. parseInt to make sure its a number
+var markupPercent = parseInt(prompt("What is the markup percent?"));
 
 
