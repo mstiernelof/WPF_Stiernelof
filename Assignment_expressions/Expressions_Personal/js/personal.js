@@ -1,7 +1,7 @@
 /**
  * Created by marie stiernelof on 11/15/13 Assignment: Expressions - Personal.
  */
-//commit 1
+//commit 2
 //math expression, 3 factors as variables (prompted) 3 arithmetic operators
 //prompted value must parseInt
 //console output include calculated values, supporting text, string concatenation
@@ -10,3 +10,5 @@
 
 //If I work X hours a week and get paid X dollars an hour. How long will I have to work to
 // be able to afford surgery for my cat.
+
+var hoursPerWeek = parseInt(prompt("How many hours per week do you work?"));
