@@ -23,4 +23,4 @@ var surgeryCost = parseInt(prompt("How much will the surgery on your kitty cost?
 
 var wagePerWeek = hoursPerWeek * wagePerHour;
 //calculating how much you would be paid in a week by multiplying hours per week by wage per hour
-var weeksUntilGoal = 1000/wagePerWeek;
+var weeksUntilGoal = surgeryCost/wagePerWeek;
