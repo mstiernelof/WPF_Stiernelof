@@ -1,7 +1,7 @@
 /**
  * Created by marie stiernelof on 11/15/13 Assignment: Expressions - Personal.
  */
-//commit 18
+//commit 19
 //math expression, 3 factors as variables (prompted) 3 arithmetic operators
 //prompted value must parseInt
 //console output include calculated values, supporting text, string concatenation
@@ -33,3 +33,4 @@ var newResult = (surgeryCost - 100) / wagePerWeek;
 //to see how many weeks it would take to reach monetary goal
 
 console.log('I will have to work '+newResult+' weeks until I can afford the surgery my kitty needs.');
+//This console logs the final result with appropriate supporting text using concatenation (strings + variable)
