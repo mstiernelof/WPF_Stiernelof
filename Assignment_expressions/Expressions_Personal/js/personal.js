@@ -1,7 +1,7 @@
 /**
  * Created by marie stiernelof on 11/15/13 Assignment: Expressions - Personal.
  */
-//commit 9
+//commit 10
 //math expression, 3 factors as variables (prompted) 3 arithmetic operators
 //prompted value must parseInt
 //console output include calculated values, supporting text, string concatenation
@@ -22,3 +22,5 @@ var surgeryCost = parseInt(prompt("How much will the surgery on your kitty cost?
 //parseInt to make sure value entered is a number
 
 var wagePerWeek = hoursPerWeek * wagePerHour;
+//calculating how much you would be paid in a week by multiplying hours per week by wage per hour
+var weeksUntilGoal = 1000/wagePerWeek;
