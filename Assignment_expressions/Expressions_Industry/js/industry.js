@@ -22,5 +22,5 @@ var markupPercent = parseInt(prompt("What is the markup percent?"));
 //Prompted variable for the mark-up percent. parseInt to make sure its a number
 
 var markupDecimal = markupPercent / 100
-
+//Convert mark-up % to a number that's easier to work with in an expression
 
