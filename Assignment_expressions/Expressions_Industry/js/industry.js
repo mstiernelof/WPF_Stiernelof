@@ -1,7 +1,7 @@
 /**
  * Created by marie stiernelof on 11/15/13. Assignment:Expressions - Industry
  */
-//commit 8
+//commit 9
 //math expression, 3 factors as variables (prompted) 3 arithmetic operators
 //prompted value must parseInt
 //console output include calculated values, supporting text, string concatenation
@@ -24,7 +24,7 @@ var markupDecimal = markupPercent / 100
 var markupAmount = markupDecimal * retailPrice
 //This calculates the mark up amount by multiplying mark up times the retail price
 
-console.log(markupAmount); //test
+console.log('The mark up amount of those designer jeans was '+markupAmount+' dollars.');
 
 //What if the Retail price wasn't the original price. What if it was a 30% off sale price
 
