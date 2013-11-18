@@ -27,3 +27,7 @@
 
 var makeCocoa = prompt("Do you want to make peppermint hot cocoa mix?");
 //Asks the user if they want to make the hot cocoa mix and inputs response into variable
+
+var jarNumber =parseInt(prompt("This makes an excellent christmas gift. How many jars of mix do you want to make?"));
+
+
