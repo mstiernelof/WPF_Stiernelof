@@ -22,30 +22,9 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//If I work X hours a week and get paid X dollars an hour. How long will I have to work to
-// be able to afford $1000 surgery for my cat.
-
-var hoursPerWeek = parseInt(prompt("How many hours per week do you work?"));
-//prompting the value for how many hours per week are worked. And making sure
-// the value entered will be treated as a number
-var wagePerHour = parseInt(prompt("How much do you get paid per hour?"));
-var surgeryCost = 1000;
-//prompting the value for how much the user is paid per hour. And making sure
-// the value entered will be treated as a number
-var wagePerWeek = hoursPerWeek * wagePerHour;
-//calculating how much you would be paid in a week by multiplying hours per week by wage per hour
-var weeksUntilGoal = 1000/wagePerWeek;
-//dividing the cost of surgery with the amount you would be paid in a week to see how many weeks
-// you would have to work to reach that goal
-if (hoursPerWeek == ""){
-    console.log("Not enough adequate information provided. Please enter a number for hours per week")
-}else if (wagePerWeek == ""){
-    console.log("Not enough adequate information provided. Please enter a number for pay per hour")
-}else {console.log("I will have to work "+weeksUntilGoal+" weeks to afford surgery for my cat.");}
-//starting work on the conditional part of the assignment
+//0 commits
+//Do you want to make  peppermint hot cocoa mix? It makes an excellent christmas gift. How many jars would you like to make?
 
 
-//Logging the result to the console and making sure that the result is explained
-// and that there is proper spacing for better readability.
 
 
