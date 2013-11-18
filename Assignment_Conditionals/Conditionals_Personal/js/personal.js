@@ -21,19 +21,27 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//6 commits
+//7commits
 //Do you want to make  peppermint hot cocoa mix? It makes an excellent christmas gift. How many jars would you like to make?
 
-var makeCocoa = prompt("Do you want to make peppermint hot cocoa mix?");
+var makeCocoa =prompt("Do you want to make peppermint hot cocoa mix?");
 //Asks the user if they want to make the hot cocoa mix and inputs response into variable
 
 var jarNumber =parseInt(prompt("This makes an excellent christmas gift. How many jars of mix do you want to make?"));
 //Asks user how many jars of mix they would like to make. ParseInt to make sure it's a number
 
-var powderedMilk = 1 * jarNumber
-var cocoaPowder = 1 * jarNumber
+var milk = 1 * jarNumber
+var cocoa = 1 * jarNumber
 var sugar = 1 * jarNumber
 var salt = .5 * jarNumber
-var miniChocoChips = .5 * jarNumber
-var crushedPeppermint = .5 * jarNumber
+var chocoChips = .5 * jarNumber
+var peppermint = .5 * jarNumber
+//Ingredient list for one jars times the number of jars they want to make
 
+if (makeCocoa=="yes"){  //Conditional statement if the want to make hot cocoa list ingredients needed
+    console.log("Ingredients needed: "+milk+" c powdered milk, "+cocoa+" c unsweetened cocoa powder, "
+    +sugar+" c sugar, "+salt+" tsp salt, "+chocoChips+" c miniature chocolate chips, "+peppermint
+    +" c crushed peppermint candy"); //ingredient amount is based on the amount of jars you want to make
+}
+else {console.log("Fine, don't make Peppermint Hot Cocoa. -_-  Grinch.");}
+//If they answered anything other than yes they get the response Fine, don't make it. And ingredient list will not be shown.
