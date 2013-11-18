@@ -22,8 +22,8 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//1 commits
+//2 commits
 //Do you want to make  peppermint hot cocoa mix? It makes an excellent christmas gift. How many jars would you like to make?
 
 var makeCocoa = prompt("Do you want to make peppermint hot cocoa mix?");
-
+//Asks the user if they want to make the hot cocoa mix and inputs response into variable
