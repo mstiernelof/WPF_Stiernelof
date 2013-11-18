@@ -21,7 +21,7 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//5 commits
+//6 commits
 //Do you want to make  peppermint hot cocoa mix? It makes an excellent christmas gift. How many jars would you like to make?
 
 var makeCocoa = prompt("Do you want to make peppermint hot cocoa mix?");
@@ -30,4 +30,10 @@ var makeCocoa = prompt("Do you want to make peppermint hot cocoa mix?");
 var jarNumber =parseInt(prompt("This makes an excellent christmas gift. How many jars of mix do you want to make?"));
 //Asks user how many jars of mix they would like to make. ParseInt to make sure it's a number
 
+var powderedMilk = 1 * jarNumber
+var cocoaPowder = 1 * jarNumber
+var sugar = 1 * jarNumber
+var salt = .5 * jarNumber
+var miniChocoChips = .5 * jarNumber
+var crushedPeppermint = .5 * jarNumber
 
