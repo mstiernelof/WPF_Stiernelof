@@ -2,7 +2,6 @@
  *  Created by marie stiernelof 11/13/13 Assignment: Conditionals
  */
 //create code that calculates a result
-//submits 5
 //what will code calculate
 //2 givens that should be prompted
 //At least two factors must be essential for the calculation.
@@ -22,12 +21,13 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//2 commits
+//5 commits
 //Do you want to make  peppermint hot cocoa mix? It makes an excellent christmas gift. How many jars would you like to make?
 
 var makeCocoa = prompt("Do you want to make peppermint hot cocoa mix?");
 //Asks the user if they want to make the hot cocoa mix and inputs response into variable
 
 var jarNumber =parseInt(prompt("This makes an excellent christmas gift. How many jars of mix do you want to make?"));
+//Asks user how many jars of mix they would like to make. ParseInt to make sure it's a number
 
 
