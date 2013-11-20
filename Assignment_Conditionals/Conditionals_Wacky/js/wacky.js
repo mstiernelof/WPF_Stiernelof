@@ -21,7 +21,7 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//7 commits
+//8 commits
 //Spanish Greetings
 
 var time =prompt("What time of day is it: Morning, afternoon or night?");
@@ -58,6 +58,6 @@ if (time=="night" && context=="formal"){ //If night and formal response
     console.log("How are you in formal Spanish = Cómo esta usted?");//and this formal question
 }
 //Validation
-else if (time=="" || context==""){
-    console.log("That response does not fit any of the options given. Please refresh and try again.");
+else if (time=="" || context==""){ //if time question or context question is left blank
+    console.log("That response does not fit any of the options given. Please refresh and try again."); //Return this response
 }
