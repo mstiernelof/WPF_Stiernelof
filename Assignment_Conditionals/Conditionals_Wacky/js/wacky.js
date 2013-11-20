@@ -21,11 +21,11 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//1 commits
+//2 commits
 //Spanish Greetings
 
 var time =prompt("What time of day is it?");
-
+//Prompt for what time of day it is
 var context = prompt("Casual or formal"?)
-
+//Prompt to find out if situation is formal or casual
 
