@@ -43,5 +43,10 @@ if (makeCocoa=="yes"){  //Conditional statement if the want to make hot cocoa li
     +sugar+" c sugar, "+salt+" tsp salt, "+chocoChips+" c miniature chocolate chips, "+peppermint
     +" c crushed peppermint candy"); //ingredient amount is based on the amount of jars you want to make
 }
+if (makeCocoa==""){console.log("insufficient information. Yes or no it's not that hard.")//Validation. What happens if they don't enter anything.
+
+}
 else {console.log("Fine, don't make Peppermint Hot Cocoa. -_-  Grinch.");}
 //If they answered anything other than yes they get the response Fine, don't make it. And ingredient list will not be shown.
+
+
