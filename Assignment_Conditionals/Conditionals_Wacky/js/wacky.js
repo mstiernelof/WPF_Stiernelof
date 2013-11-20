@@ -21,7 +21,7 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//5 commits
+//6 commits
 //Spanish Greetings
 
 var time =prompt("What time of day is it: Morning, afternoon or night?");
@@ -29,31 +29,31 @@ var time =prompt("What time of day is it: Morning, afternoon or night?");
 var context =prompt("Casual or formal?");
 //Prompt to find out if situation is formal or casual
 
-if (time=="morning" && context=="casual"){ //
+if (time=="morning" && context=="casual"){ //If morning and casual response
     console.log("Good Day in Spanish = Buenos dias."); //Then console log this greeting
-    console.log("How are you in informal Spanish = Cómo estas?");
+    console.log("How are you in informal Spanish = Cómo estas?");//and this informal question
 }
-if (time=="morning" && context=="formal"){ //
-    console.log("Good Day in Spanish = Buenos dias."); //
-    console.log("How are you in formal Spanish = Cómo esta usted?");
-}
-
-if (time=="afternoon" && context=="casual"){
-    console.log("Good Afternoon in Spanish = Buenas Tardes.");
-    console.log("How are you in informal Spanish = Cómo estas?");
+if (time=="morning" && context=="formal"){ //If morning and formal response
+    console.log("Good Day in Spanish = Buenos dias."); //Then console log this greeting
+    console.log("How are you in formal Spanish = Cómo esta usted?");//and this formal question
 }
 
-if (time=="afternoon" && context=="formal" ){
-    console.log("Good Afternoon in Spanish = Buenas Tardes.");
-    console.log("How are you in formal Spanish = Cómo esta usted?");
+if (time=="afternoon" && context=="casual"){ //If afternoon and casual response
+    console.log("Good Afternoon in Spanish = Buenas Tardes."); //Then console log this greeting
+    console.log("How are you in informal Spanish = Cómo estas?");//and this informal question
 }
 
-if (time=="night" && context=="casual"){
-    console.log("Good Evening in Spanish = Buenas Noches.");
-    console.log("How are you in informal Spanish = Cómo estas?");
+if (time=="afternoon" && context=="formal" ){ //If afternoon and formal response
+    console.log("Good Afternoon in Spanish = Buenas Tardes."); //Then console log this greeting
+    console.log("How are you in formal Spanish = Cómo esta usted?");//and this formal question
 }
 
-if (time=="night" && context=="formal"){
-    console.log("Good Evening in Spanish = Buenas Noches.");
-    console.log("How are you in formal Spanish = Cómo esta usted?");
+if (time=="night" && context=="casual"){ //If night and casual response
+    console.log("Good Evening in Spanish = Buenas Noches."); //Then console log this greeting
+    console.log("How are you in informal Spanish = Cómo estas?");//and this informal question
+}
+
+if (time=="night" && context=="formal"){ //If night and formal response
+    console.log("Good Evening in Spanish = Buenas Noches."); //Then console log this greeting
+    console.log("How are you in formal Spanish = Cómo esta usted?");//and this formal question
 }
