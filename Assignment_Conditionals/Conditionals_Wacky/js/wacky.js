@@ -21,21 +21,21 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//3 commits
+//4 commits
 //Spanish Greetings
 
-var time =prompt("What time of day is it?");
+var time =prompt("What time of day is it? Morning, afternoon or night?");
 //Prompt for what time of day it is
-var context = prompt("Casual or formal"?);
+var context =prompt("Casual or formal?");
 //Prompt to find out if situation is formal or casual
 
-if (time>=6 && time<=12){ //If time is 6am or more but not passed noon
+if (time=="morning"){ //If time is 6am or more but not passed noon
     console.log("Good Day in Spanish = Buenos dias."); //Then console log this greeting
 }
 
-if (time>=12 && time<=16){
+if (time=="afternoon"){
     console.log("Good Afternoon in Spanish = Buenas Tardes.");
 }
-if (time>=17 && time<=24){
+if (time=="night"){
     console.log("Good Evening in Spanish = Buenas Noches.");
 }
