@@ -21,7 +21,7 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//7commits
+//8 commits
 //Do you want to make  peppermint hot cocoa mix? It makes an excellent christmas gift. How many jars would you like to make?
 
 var makeCocoa =prompt("Do you want to make peppermint hot cocoa mix?");
@@ -43,7 +43,7 @@ if (makeCocoa=="yes"){  //Conditional statement if the want to make hot cocoa li
     +sugar+" c sugar, "+salt+" tsp salt, "+chocoChips+" c miniature chocolate chips, "+peppermint
     +" c crushed peppermint candy"); //ingredient amount is based on the amount of jars you want to make
 }
-if (makeCocoa==""){console.log("insufficient information. Yes or no it's not that hard.")//Validation. What happens if they don't enter anything.
+else if (makeCocoa==""){console.log("insufficient information. Yes or no it's not that hard.")//Validation. What happens if they don't enter anything.
 
 }
 else {console.log("Fine, don't make Peppermint Hot Cocoa. -_-  Grinch.");}
