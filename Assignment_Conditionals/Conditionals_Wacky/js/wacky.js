@@ -21,21 +21,39 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//4 commits
+//5 commits
 //Spanish Greetings
 
-var time =prompt("What time of day is it? Morning, afternoon or night?");
+var time =prompt("What time of day is it: Morning, afternoon or night?");
 //Prompt for what time of day it is
 var context =prompt("Casual or formal?");
 //Prompt to find out if situation is formal or casual
 
-if (time=="morning"){ //If time is 6am or more but not passed noon
+if (time=="morning" && context=="casual"){ //
     console.log("Good Day in Spanish = Buenos dias."); //Then console log this greeting
+    console.log("How are you in informal Spanish = Cómo estas?");
+}
+if (time=="morning" && context=="formal"){ //
+    console.log("Good Day in Spanish = Buenos dias."); //
+    console.log("How are you in formal Spanish = Cómo esta usted?");
 }
 
-if (time=="afternoon"){
+if (time=="afternoon" && context=="casual"){
     console.log("Good Afternoon in Spanish = Buenas Tardes.");
+    console.log("How are you in informal Spanish = Cómo estas?");
 }
-if (time=="night"){
+
+if (time=="afternoon" && context=="formal" ){
+    console.log("Good Afternoon in Spanish = Buenas Tardes.");
+    console.log("How are you in formal Spanish = Cómo esta usted?");
+}
+
+if (time=="night" && context=="casual"){
     console.log("Good Evening in Spanish = Buenas Noches.");
+    console.log("How are you in informal Spanish = Cómo estas?");
+}
+
+if (time=="night" && context=="formal"){
+    console.log("Good Evening in Spanish = Buenas Noches.");
+    console.log("How are you in formal Spanish = Cómo esta usted?");
 }
