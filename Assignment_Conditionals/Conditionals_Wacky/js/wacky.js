@@ -21,7 +21,7 @@
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
 
-//8 commits
+//9 commits
 //Spanish Greetings
 
 var time =prompt("What time of day is it: Morning, afternoon or night?");
