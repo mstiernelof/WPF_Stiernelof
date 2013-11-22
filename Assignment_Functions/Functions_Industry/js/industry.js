@@ -15,4 +15,5 @@
 //    6. A function with three parameters, 7. At least one logical operator
 
 //commits 2
+// Comparing wages earned with 2 friends who also work in retail
 
