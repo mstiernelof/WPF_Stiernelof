@@ -15,4 +15,4 @@
 //    6. A function with three parameters, 7. At least one logical operator
 
 //commits 2
-//How many pies to make. 4 slices per person. 12 slice in a pie. How many people coming for Thanksgiving dinner.
+
