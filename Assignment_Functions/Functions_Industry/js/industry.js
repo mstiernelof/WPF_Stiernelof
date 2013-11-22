@@ -17,3 +17,11 @@
 //commits 2
 // Comparing wages earned with 2 friends who also work in retail
 
+var calculateSalary = function (name, hoursWorked, payPerHour);{ //Wrote function to calculate salary. Stated relevant parameters
+    var totalSalary = hoursWorked  * payPerHour;
+    console.log(name+"'s makes "+totalSalary+" in a week.");
+}
+
+calculateSalary ("Marie", 25, 9);
+calculateSalary ("Jen", 40, 8);
+calculateSalary ("Jessica", 23, 10);
