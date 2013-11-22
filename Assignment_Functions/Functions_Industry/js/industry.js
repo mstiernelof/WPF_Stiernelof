@@ -14,7 +14,7 @@
 //    4. A normal "named" function, 5. An expression with two arithmetic operators
 //    6. A function with three parameters, 7. At least one logical operator
 
-//commits 3
+//commits 4
 // Comparing wages earned with 2 friends who also work in retail
 
 var calculateSalary = function (name, hoursWorked, payPerHour);{ //Wrote function to calculate salary. Stated relevant variable for figuring out salary
@@ -22,6 +22,6 @@ var calculateSalary = function (name, hoursWorked, payPerHour);{ //Wrote functio
     console.log(name+"'s makes $"+totalSalary+" in a week.");//showing result of calculation with proper descriptive words so it's not just the salary number
 }
 
-calculateSalary ("Marie", 25, 9);
-calculateSalary ("Jen", 40, 8);
-calculateSalary ("Jessica", 23, 10);
+calculateSalary ("Marie", 25, 9); //Will show how much I make
+calculateSalary ("Jen", 40, 8); //Will show how much friend Jen makes
+calculateSalary ("Jessica", 23, 10); //Will show how much friend Jessica makes
