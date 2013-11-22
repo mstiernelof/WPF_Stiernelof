@@ -13,11 +13,11 @@
 //    4. A normal "named" function, 5. An expression with two arithmetic operators
 //    6. A function with three parameters, 7. At least one logical operator
 
-//commits 3
+//commits 4
 
 //Today's weather/Should I wear outerwear?
 
-var temp = prompt("What's the temperature outside?");
+var temp = prompt("What's the temperature outside?"); //Ask user what the temperature is outside
 
 var todaysWeather = function (temp){
     if (temp<=50){console.log("Yes, wear a winter coat. It's freaking cold!");}
