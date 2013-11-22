@@ -20,3 +20,10 @@
 //Each of the following must be used in in at least one of the 3 projects
 //1.ternary 2.else if 3.logical operator 4.relational operator other than ==
 //20 commits for each project!
+
+//Mini Quiz: Doing business in Asia
+
+
+
+
+

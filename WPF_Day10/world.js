@@ -45,7 +45,43 @@ function monsterGen(landType){
 
         }
     }
+return monsterArray;
 }
+//Treasure Generation
+
+function treasureGen(monsterName){
+    var treasure = [];
+    var treasureType = Math.random();
+    var treasureAmount = Math.random();
+    var minGold = 0;
+    var maxGold = 0;
+    var minGems = 0;
+    var maxGems = 0;
+    var minWeapons = 0;
+    var maxWeapons = 0;
+
+    if (monsterName){
+        minGold = 1;
+        maxGold = 1000;
+        minGems = 1;
+        maxGems = 4;
+        minWeapons = 1;
+        maxWeapons = 1;
+    }
+    //Chance you will get gold, and/or gems, and/or weapons
+    //10% gold, 5% others, else null
+    if (treasureType<=.1){} //gold
+    else  if (treasureType<=.15){} //gems
+    else  if (treasureType<=.2){} //weapons
+    else  if (treasureType<=.25){} //gold, gems
+    else  if (treasureType<=.30){} //gold weapons
+    else  if (treasureType<=.35){} //weapons gems
+    else  if (treasureType<=.40){} //gold weapons gems
+    else {treasure[0]="You got nothing!"} //nothing
+
+    return treasure;
+}
+
 
 
 function worldDisplay(worldArray,xyz,yyy,charName){
