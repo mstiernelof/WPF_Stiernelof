@@ -13,7 +13,7 @@
 //    4. A normal "named" function, 5. An expression with two arithmetic operators
 //    6. A function with three parameters, 7. At least one logical operator
 
-//commits 6
+//commits 7
 
 //Today's weather/Should I wear outerwear?
 
